@@ -1,0 +1,11 @@
+
+The Four Color problem is one of the most famous problems in Mathematics. The problem consists of
+the question whether any map can be colored using four colors in such a way that adjacent regions
+(i.e. those sharing a common boundary segment, not just a point) receive different colors. This
+problem has been formulated first by Francis Guthrie in 1852 (published in 1878) and was unsolved for
+roughly a century. Wolfgang Haken und Kenneth Appel could prove the four color theorem with the help
+of a computer program in 1977 .
+
+Consider the political map of the South-Eastern states of the USA (states North Carolina, South
+Carolina, Virginia, Tennessee, Kentucky, West Virginia, Georgia, Alabama, Mississippi, and Florida). How
+can we color this map with the four color theorem using a Genetic Algorithm?
